@@ -24,7 +24,7 @@ ajax("get","goods.json","",function(list){
 	findGoods.onblur = function(){
 		setTimeout(function(){ 
 			downs.style.display="none";
-		},20)
+		},500)
 	}
 })
 

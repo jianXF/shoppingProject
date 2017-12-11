@@ -6,7 +6,7 @@
 		"details":
 		[{
 			"id":"1111",
-			"name":"淑女气质纯色马夹",
+			"name":"淑女气质纯色外套",
 			"pic":["img/170052c1a55f8d3e58c179eb188f8c2330e5d6-500.jpg","img/170059ce040e2c7e9dffe97d9b41a4e2f12a88-150.jpg","img/1700569d47cffcb5749b570eb8b8b568bc8282.jpg"],
 			"price":271,
 			"color":["米色","黑色"],
@@ -56,7 +56,7 @@
 			"src":["img/152911-578359-no0.jpg","img/152911-578359-no1.jpg","img/152911-578359-no2.jpg","img/152911-578359-no3.jpg","img/152911-578359-no4.jpg"]
 		}]
 	},{
-		"kinds":"裤子",
+		"kinds":"牛仔裤",
 		"details":
 		[{
 			"id":"1121",
